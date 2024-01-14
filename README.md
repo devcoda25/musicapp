@@ -12,11 +12,8 @@ Built on the MERN Stack with `NodeJs` `ReactJs` `Express` `Chakra UI` `Redux Too
 
 ## Author
 
-👤 *deron <br/>
+👤 *deron /devcoda25 <br/>
 Leave a ⭐️ If you like this project!
 
-- Website: https://ikennaezef.netlify.app
-
-## Screenshot
 
 ![Home](./sc.png)
